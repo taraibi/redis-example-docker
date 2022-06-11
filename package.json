@@ -1,0 +1,28 @@
+{
+  "name": "holy-grail-app",
+  "version": "0.0.1",
+  "description": "full stack app sample",
+  "main": "index.js",
+  "private": "true",
+  "author": "Anya Paranya",
+  "license": "MIT",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyapages/holy-grail-app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install",
+    "start": "node index.js"
+  }
+}
