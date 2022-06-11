@@ -15,6 +15,9 @@ Implement the /update/:key/:value enpoint by using the Redis client to update a 
 - ```npm install```
 - `node index.js` run on `http://localhost:3000`.
 
+# Roadmap
+
+no plans currently to update or improve this code base
 
 ## License
 
